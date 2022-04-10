@@ -1,16 +1,8 @@
-## Welcome to GitHub Pages
+### 苏令涛 简介
 
-You can use the [editor on GitHub](https://github.com/sdustSu/sdustSu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**主要科研领域为生物信息学，通过使用当前主流的机器学习模型和数据挖掘技术对各种生物数据进行处理、挖掘和分析等，从而解决与人类生活息息相关的生命科学问题。在研究领域国际知名期刊发表论文21篇，并获国家发明专利1项。2021年 全职回国工作以来，积极参与国内生物信息学活动，现担任CCF生物信息专业委员会通讯委员。先后参与生物信息领域国家自然基金项目2项，吉林省科技创新项目1项，参与美国自然基金重大项目3项。主持“吉林大学研究生创新研究计划”项目1项。硕士毕业论文:“基于动态蛋白互作网络的蛋白质复合物识别算法研究”被评为吉林省优秀毕业论文。博士毕业论文:“基于多组学数据的癌症生物标志物识别算法研究”被评为吉林大学优秀毕业论文。**
 
 ```markdown
-Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
