@@ -17,20 +17,19 @@
 (1) 2021-11 至 今, 山东科技大学, 计算机科学与工程学院, 讲师 
 (2) 2017-08 至 2019-08, 美国密苏里大学哥伦比亚校区, 工学院
 
-``` markdown
-科研项目列表：
 
-近五年主持或参加的国家自然科学基金项目/课题:
+**科研项目列表：**<br>
+
+近五年主持或参加的国家自然科学基金项目/课题:<br>
 
 (1) 国家自然科学基金委员会, 面上项目, 61772226, 面向全基因组从遗传变异到复杂疾病关联网络模型 构建研究, 2018-01-01 至 2021-12-31, 60万元, 在研, 参与
 (2) 国家自然科学基金委员会, 青年科学基金项目, 61702214, 混合型生物医学知识网络构建及隐性知识 发现方法研究, 2018-01-01 至 2020-12-31, 23万元, 结题, 参与
 
-近五年主持或参加的其他科研项目/课题(国家自然科学基金项目除外):
+近五年主持或参加的其他科研项目/课题(国家自然科学基金项目除外):<br>
 
 (1) NSF Division Of Integrative Organismal Systems , 美国自然基金, 2001122, Genome-enabled ch aracterization of orphan receptor-like kinases in plants, 2020-06 至 2025-05, 1263万元, 在研, 参 与
 (2) NSF Division Of Integrative Organismal Systems, 美国自然基金, 1734145, System approaches to study soybean root biology at high resolution, 2017-08 至 2022-07, 2331万元, 在研, 参与
 
-```
 **_代表性论文：_**<br>
 
 1.	Liyan Sun, Guixia Liu, Lingtao Su,Rongquan Wang. SEE: a novel multi-objective evolutionary algorithm for identifying SNP epistasis in genome-wide association studies, Biotechnology & Biotechnological Equipment, 2019, 33:1, 529-547. 
